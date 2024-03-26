@@ -141,3 +141,5 @@ line-length = 120
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+mysqlclient = "^1.4.6"
